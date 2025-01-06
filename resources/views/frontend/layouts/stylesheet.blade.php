@@ -1,5 +1,5 @@
 <meta charset="UTF-8">
-<title>M22 Doctors Foundation</title>
+<title> Engineer Moqbul Foundation (EMF)</title>
 
 <!-- responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="description" content="To promote the marginal people of Bangladesh with the aim to make their life Self-Reliant as well as a Social Entrepreneur">
-<meta name="keywords" content="M22 Doctors Foundation,Foundation non-profit, Donate to M22 Doctors Foundation, Bangladeshi Foundation">
+<meta name="keywords" content=" Engineer Moqbul Foundation (EMF),Foundation non-profit, Donate to  Engineer Moqbul Foundation (EMF), Bangladeshi Foundation">
 
 <link rel="stylesheet" href="{{ asset('assets/frontend/css/aos.css') }}">
 <link rel="stylesheet" href="{{ asset('assets/frontend/css/bootstrap.min.css') }}">
@@ -41,9 +41,9 @@
 <link rel="stylesheet" href="{{ asset('assets/frontend/css/responsive.css') }}">
 
 <!-- Favicon -->
-<link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/backend/media/logos/m22_logo.png') }}">
-<link rel="icon" type="image/png" href="{{ asset('assets/backend/media/logos/m22_logo.png') }}" sizes="32x32">
-<link rel="icon" type="image/png" href="{{ asset('assets/backend/media/logos/m22_logo.png') }}" sizes="16x16">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/backend/media/logos/EMF-Final-Logo-footer.png') }}">
+<link rel="icon" type="image/png" href="{{ asset('assets/backend/media/logos/EMF-Final-Logo-footer.png') }}" sizes="32x32">
+<link rel="icon" type="image/png" href="{{ asset('assets/backend/media/logos/EMF-Final-Logo-footer.png') }}" sizes="16x16">
 
 <link rel="stylesheet" href="{{ asset('assets/frontend/css/home-standard.css') }}">
 

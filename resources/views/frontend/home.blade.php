@@ -568,7 +568,7 @@
             <div class="row">
                 <div class="col-xl-6">
                     <div class="event-style1_image-box"
-                        style="background-image: url(assets/frontend/images/events/event-banner-image.jpeg);">
+                        style="background-image: url(assets/frontend/images/events/event-details-1.jpg);">
 
                     </div>
                 </div>
