@@ -55,7 +55,7 @@
                     <img src="uploads/resulotion/registration_certificate.jpeg"  alt="" width="100%" height="700">
                 </div>
                 <div class="col-xl-6">
-                    <embed class="pdf" src="uploads/resulotion/m22drf.PDF" width="100%" height="700">
+                    <embed class="pdf" src="uploads/resulotion/Regulations.pdf" width="100%" height="700">
                 </div>
             </div>
         </div>

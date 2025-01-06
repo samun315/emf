@@ -54,14 +54,14 @@
                 <div class="col-xl-12">
                     <h3>DISCLAIMER:</h3>
 
-                    <p>The M22 Doctors’ Foundation has taken all possible steps to ensure that
+                    <p>The Engineer Moqbul Foundation (EMF) has taken all possible steps to ensure that
                         the information provided on this website is helpful, accurate and up to date.
                         However, the information given on this website is not comprehensive and
                         there may be inadvertent errors for which we apologise. If anybody is using
                         the site or any of the foundation’s printed materials and notice an error or
                         apparent contradiction then please contact and advise us as soon as
                         possible.</p>
-                    <p>The M22 Doctors’ Foundation reserves the right to change the content of
+                    <p>The Engineer Moqbul Foundation (EMF) reserves the right to change the content of
                         the website without notice. The foundation also does not accept liability for
                         any loss or damage arising directly or indirectly from access to or use made
                         of this website. Any decisions made based on the information contained on
@@ -71,30 +71,30 @@
                         <h3>COPYRIGHT:</h3>
 
                         <p>Unless otherwise stated, the contents of these pages are copyright to the
-                            M22 Doctors’ Foundation.</p>
+                            Engineer Moqbul Foundation (EMF).</p>
 
                         <p>Material from this website may be reproduced in print or electronically for
                             educational and research purposes. The copyright is retained on any
-                            copies made and the name of the M22 Doctors’ Foundation should not be
+                            copies made and the name of the Engineer Moqbul Foundation (EMF) should not be
                             used in any publicity or advertising material without the express permission
                             of the Foundation itself.</p>
 
                         <h3>EXTERNAL LINKS:</h3>
 
-                        <p>Links to other web sites are provided by M22 Doctors’ Foundation in good
-                            faith and for information only. M22 Doctors’ Foundation disclaims any
+                        <p>Links to other web sites are provided by Engineer Moqbul Foundation (EMF) in good
+                            faith and for information only. Engineer Moqbul Foundation (EMF) disclaims any
                             responsibility for the materials contained in any web site linked to this site.</p>
 
                         <h3>IMAGE CREDITS:</h3>
 
-                        <p>All of the pictures are owned by M22 Doctors’ Foundation and cannot be
+                        <p>All of the pictures are owned by Engineer Moqbul Foundation (EMF) and cannot be
                             used without permission.</p>
                         <p>If anybody notice the photos of this website seeming duplicate from another
                             site, then please inform us as soon as possible.</p>
 
                         <h3>CONTENT CREDITS:</h3>
 
-                        <p>All of the contents are owned by M22 Doctors’ Foundation and cannot be
+                        <p>All of the contents are owned by Engineer Moqbul Foundation (EMF) and cannot be
                             used without permission.</p>
                         <p>anybody notice that any of the contents of this website seeming identical
                             from another site, then please inform us as soon as possible. We will solve
@@ -103,7 +103,7 @@
                             However, we take no responsibility for, and will not be liable for, the website
                             being temporarily unavailable due to technical issues beyond our control.</p>
 
-                        <h3>LAST UPDATED : 11.03.2024</h3>
+                        <h3>LAST UPDATED : 06.01.2025</h3>
                         <br><br>
                 </div>
             </div>

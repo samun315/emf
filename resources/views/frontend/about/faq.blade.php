@@ -54,10 +54,10 @@
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn active">
-                                    <h4>What is M 22 Doctors’ Foundation?</h4>
+                                    <h4>What is Engineer Moqbul Foundation (EMF)?</h4>
                                 </div>
                                 <div class="accord-content collapsed">
-                                    <p>M 22 Doctors’ Foundation is a charitable organization founded by the batch M 22 of Mymensingh Medical College, Mymensingh, Bangladesh.</p>
+                                    <p>Engineer Moqbul Foundation (EMF) is a charitable organization founded by Engineer Mohammed Moqbul Hussain Patwary with the aim of uplifting marginalized communities in Bangladesh. It is a non-profitable, non-government voluntary & charitable foundation. Our mission is to promote self-reliance, People Empowerment, Human Health, Education, Home Shelter, Basic needs and sustainable development in these communities through various focused programs.</p>
                                     <p>Visit our <a href="/about-us">About Us</a> page to learn more.</p>
                                 </div>
                             </div>
@@ -65,21 +65,20 @@
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>Established year of this foundation.</h4>
+                                    <h4>When was the foundation established?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>First July, 2023.</p>
+                                    <p>The foundation was established on the year 2011.</p>
                                 </div>
                             </div>
                             <!--End single accordion box-->
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>Registered authority of this foundation. </h4>
+                                    <h4>What is the vision of the Engineer Moqbul Foundation?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>M 22 Doctors’ Foundation is registered in The Joint Stock Company Bangladesh and widely known as RJSC, only legal authority of company registration into the country (Bangladesh).</p>
-                                    <p>The registration number is: On process.</p>
+                                    <p>Our vision is to empower the marginalized communities of Bangladesh, helping them achieve self-reliance. We are also dedicated to supporting women entrepreneurs and improving access to maternal care, ensuring better health, dignity, and opportunities for elderly men and women.</p>
                                 </div>
                             </div>
                             <!--End single accordion box-->
@@ -87,52 +86,63 @@
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>Vision of this foundation?</h4>
+                                    <h4>What is the mission of the Engineer Moqbul Foundation?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>“To promote the marginal people of Bangladesh with the aim to make their life Self-Reliant.</p>
+                                    <p>Our mission is to raise resources through fundraising efforts and community partnerships, using these funds to make a tangible impact in the lives of marginalized people.</p>
+                                    <p>We aim to attract volunteers and partners who are passionate about supporting underprivileged communities.</p>
+                                    <p>We also focus on creating sustainable communities by providing support to the destitute and disadvantaged people in need.</p>
                                 </div>
                             </div>
                             <!--End single accordion box-->
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>Mission of this Foundation?</h4>
+                                    <h4>What are the main areas of focus for the foundation?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>To generate resources through fundraising initiatives and community partnerships, and use those funds to make an impact in the lives of the marginal people.</p>
-                                    <p>To attract Volunteers and Partners who are passionate about helping the underprivileged.</p>
-                                    <p>To develop a sustainable community through helping the destitute & disadvantaged people who need support.</p>
+                                    <p>The primary focus areas of the Engineer Moqbul Foundation are:</p>
+                                    <p>Health, Education, People Empowerment, Home Shelter, Basic Needs.</p>
                                 </div>
                             </div>
                             <!--End single accordion box-->
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>Focused areas of this foundation:</h4>
+                                    <h4>What type of programs does the foundation run?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>Home Shelter, Water and Food, Health and Education.</p>
+                                    <p>Engineer Moqbul Foundation (EMF) operates some core programs:</p>
+                                    <ul>
+                                        <li>Healthcare Innovative Program</li>
+                                        <li>Community Welfare Program</li>
+                                        <li>Self-Reliant Program</li>
+                                        <li>Social Entrepreneurship Program</li>
+                                        <li>Education Program</li>
+                                        <li>Environmental Program</li>
+                                        <li>Response to Natural Calamities</li>
+                                    </ul>
                                 </div>
                             </div>
                             <!--End single accordion box-->
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>The type of programs of this foundation?</h4>
+                                    <h4>Who is the target community of this foundation?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>M 22 Doctors’ Foundation emphases on 9 core programs: [a] Self-reliant program, [b] Social entrepreneurship program , [c] Skill development program, [d] Environmental program,  [e] Health and Nutrition, [f] Education, [g] Response to Natural Calamities and [i] Healthcare Innovative Program.</p>
+                                    <p>Engineer Moqbul Foundation (EMF) focuses its activities on the marginalized people of Bangladesh, providing support to communities in need of empowerment and basic assistance.</p>
                                 </div>
                             </div>
                             <!--End single accordion box-->
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>The target community on which the foundation work.</h4>
+                                    <h4>How does the foundation help the beneficiaries?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>The activities of the foundation are dedicated to the marginal people of Bangladesh.</p>
+                                    <p>EMF sponsor, implement, and monitor all charity projects through selected Social Entrepreneurs or Community Volunteer Groups. <br>
+                                        These local groups are responsible for the day-to-day operation of projects, ensuring that help directly reaches the communities in need.</p>
                                 </div>
                             </div>
                             <!--End single accordion box-->
@@ -147,23 +157,34 @@
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>How we help our benevolent?</h4>
+                                    <h4>What are the challenges faced by the foundation?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>M22 Doctors’ Foundation Sponsor, Implement & Monitor all of its charity projects through a selected “Social -Entrepreneur” or “Community Volunteer Group”.</p>
-                                    <p>The selected “Social -Entrepreneur” or “Community Volunteer Group” operate the project locally.</p>
+                                    <ul>
+                                        <li>Building Awareness and Outreach: Raising awareness about the foundation's mission and programs, particularly in underserved areas, can be challenging. We need to effectively communicate our work to potential donors, volunteers, and partners to generate support.</li>
+                                        <li>Maintaining Program Quality: Ensuring that the quality of our programs continues to meet the highest standards and creates long-lasting impact.</li>
+                                        <li>Volunteer and Partner Engagement: Attracting and retaining committed volunteers and long-term partners who share our vision can be difficult. Our success depends on strong, reliable partnerships, and building these relationships takes significant time and effort.</li>
+                                        <li>Fundraising: One of the primary challenges is raising sufficient funds to run and expand our diverse programs. Ensuring that we secure consistent and adequate financial support is critical to sustaining our work.</li>
+                                    </ul>
                                 </div>
                             </div>
                             <!--End single accordion box-->
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>Challenges of the foundation:</h4>
+                                    <h4>What does donation mean to the foundation?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>To collect adequate fund to run different programs of the foundation </p>
-                                    <p>To maintain and improve the quality of our programs.</p>
-                                    <p>M 22 Doctors’ Foundation is a newly established community-based charity organization organized by a group of philanthropic doctors. We try to work through local partner organizations in order to make projects self-sustainable as well as maximizing the use of local and cultural knowledge. </p>
+                                    <p>Donations are essential to our work and can come in many forms, including:</p>
+                                    <ul>
+                                        <li>Financial contributions</li>
+                                        <li>Household commodities</li>
+                                        <li>Food supplies</li>
+                                        <li>Professional services (Healthcare, Education)</li>
+                                        <li>Vehicles or land support</li>
+                                        <li>Volunteer time and effort</li>
+                                        <p>Each contribution helps further the foundation’s mission to Empowering Life.</p>
+                                    </ul>
                                 </div>
                             </div>
                             <!--End single accordion box-->
@@ -171,43 +192,21 @@
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>Donation means to the foundation:</h4>
+                                    <h4>How can I volunteer for Engineer Moqbul Foundation?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>The donation means to provide the time, effort, professional advices, money, house hold commodities, food, vehicle support, land support & many more for a good cause.</p>
+                                    <p>1. Fundraising Volunteer: Help raise funds for the foundation’s programs within your local community.</p>
+                                    <p>2. Project Organizer: Help organize and manage community-based projects for those in need in your area under EMF.</p>
                                 </div>
                             </div>
                             <!--End single accordion box-->
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>How can a person work as a volunteer for M 22 Doctors’ Foundation?</h4>
+                                    <h4>How does the foundation manage its administrative costs?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>[a] Become a fundraising volunteer: Help, raise money for M22 Doctors’ Foundation in the local community.<br>
-                                        [b] Become a project organizer for the needy: Inform us any help we can do at your local project.
-                                        </p>
-                                </div>
-                            </div>
-                            <!--End single accordion box-->
-                            <!--Start single accordion box-->
-                            <div class="accordion accordion-block">
-                                <div class="accord-btn">
-                                    <h4>How Foundation’s administration cost is being maintained?</h4>
-                                </div>
-                                <div class="accord-content">
-                                    <p>Our fund raised from donation. All of the administrative costs are kept below 5% of our donation. </p>
-                                    <p>For more information, please go to our home page: “How we spend your money “</p>
-                                </div>
-                            </div>
-                            <!--End single accordion box-->
-                            <!--Start single accordion box-->
-                            <div class="accordion accordion-block">
-                                <div class="accord-btn">
-                                    <h4>Is the donated amount rightly used for Poor People?</h4>
-                                </div>
-                                <div class="accord-content">
-                                    <p>To ensure that the donor is rightly informed about the expenditure of their donations, M22 Doctors’ Foundation follows a strict post-donation procedure and bills for the same are duly shared.</p>
+                                    <p>All funds raised are used carefully to support the foundation’s programs. We keep administrative costs below 5% of total donations, ensuring that the majority of contributions are spent directly on charitable activities.</p>
 
                                 </div>
                             </div>
@@ -215,13 +214,35 @@
                             <!--Start single accordion box-->
                             <div class="accordion accordion-block">
                                 <div class="accord-btn">
-                                    <h4>For More information:</h4>
+                                    <h4>How can I be sure that my donation is used properly?</h4>
                                 </div>
                                 <div class="accord-content">
-                                    <p>Please go through our website: www.m22drf.org</p>
-                                    <p>Experience our <a href="/all-programs">All Programs</a> and pick one for donation: <a href="/">Donate Us</a>
-                                        </p>
-                                    <p><a href="/contact-us">Contact Us</a></p>
+                                    <p>EMF believes transparency is the best policy of trust.</p>
+                                    <p>Engineer Moqbul Foundation (EMF) maintain a strict post-donation procedure to donation expenditures are provided to donors. This ensures that every contribution will be utilized in ‘SMART’ way for the intended causes.</p>
+                                </div>
+                            </div>
+                            <!--End single accordion box-->
+                            <!--Start single accordion box-->
+                            <div class="accordion accordion-block">
+                                <div class="accord-btn">
+                                    <h4>How can I donate or support the foundation?</h4>
+                                </div>
+                                <div class="accord-content">
+                                    <p>You can donate directly through our website. We offer various programs that you can contribute to based on your interests and areas of focus. You can also volunteer your time and skills to help us make a difference in the lives of marginalized communities.</p>
+                                    <p>For more information, visit our <b>Donate</b> page.</p>
+
+                                </div>
+                            </div>
+                            <!--End single accordion box-->
+                            <!--Start single accordion box-->
+                            <div class="accordion accordion-block">
+                                <div class="accord-btn">
+                                    <h4> Where can I find more information about the foundation?</h4>
+                                </div>
+                                <div class="accord-content">
+                                    <p>For more information about Engineer Moqbul Foundation, please visit our official website: </p>
+                                    <a href="./">www.emf.org.bd</a>
+                                    <p>Explore all our programs, choose one for donation, or get in touch with us via the <a href="/contact-us">Contact Us</a> page.</p>
                                 </div>
                             </div>
                             <!--End single accordion box-->
