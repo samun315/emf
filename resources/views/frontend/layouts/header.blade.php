@@ -23,7 +23,7 @@
                     <div class="logo">
                         <a href="/">
                             <img style="width: 298px; height:74px"
-                                src="{{ asset('assets/frontend/logo/logo.svg') }}" alt="Logo"
+                                src="{{ asset('assets/frontend/logo/EMF-Final-Logofor-Web.png') }}" alt="Logo"
                                 title="">
                         </a>
                     </div>
@@ -130,7 +130,7 @@
                 <div class="logo float-left">
                     <a href="/" class="img-responsive">
                         <img style="width: 298px; height:74px"
-                            src="{{ asset('assets/frontend/logo/logo.svg') }}" alt=""
+                            src="{{ asset('assets/frontend/logo/EMF-Final-Logofor-Web.png') }}" alt=""
                             title=""></a>
                 </div>
                 <!--Right Col-->
@@ -151,7 +151,7 @@
         <div class="close-btn"><span class="icon fa fa-times-circle"></span></div>
         <nav class="menu-box">
             <div class="nav-logo"><a href="index.html"><img style="width: 208px; height:54px"
-                        src="{{ asset('assets/frontend/logo/logo.svg') }}" alt=""
+                        src="{{ asset('assets/frontend/logo/EMF-Final-Logofor-Web.png') }}" alt=""
                         title=""></a>
             </div>
             <div class="menu-outer">

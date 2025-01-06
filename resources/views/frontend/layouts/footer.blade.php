@@ -28,7 +28,7 @@
                         <div class="our-company-info">
                             <div class="footer-logo">
                                 <a href="/"> <img style="width: 200px; height: 200px"
-                                        src="{{ asset('assets/frontend/logo/m22 foundation logo.jpg') }}"
+                                        src="{{ asset('assets/frontend/logo/EMF-Final-Logo-footer.png') }}"
                                         alt="logo" /></a>
                             </div>
 
@@ -139,7 +139,7 @@
         <div class="auto-container">
             <div class="footer-bottom_content_box text-center">
                 <div class="copyright-text">
-                    <p>&copy; {{ date('Y') }} <a href="javascript::void(0)">M22 Charity.</a> All rights reserved.
+                    <p>&copy; {{ date('Y') }} <a href="javascript::void(0)">Engineer Moqbul Foundation.</a> All rights reserved.
                     </p>
                 </div>
                 <div class="footer-social-link">

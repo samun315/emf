@@ -454,7 +454,7 @@
 
     <!--Start Donate Form Area-->
     <section class="donate-form-area">
-        <div class="donate-form-area_bg" style="background-image: url(assets/frontend/images/pattern/thm-pattern-3.png);">
+        <div class="donate-form-area_bg" style="background-image: url(assets/frontend/images/pattern/thm-pattern-5.png);">
         </div>
         <div class="auto-container">
             <div class="row">

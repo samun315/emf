@@ -66,15 +66,15 @@ Route::middleware(['preventBackHistory', 'admin'])->group(function () {
     });
 
     //Member Gallery
-    Route::group(['prefix' => 'member-gallery'], function () {
-        Route::get('/index', [MemberGalleryController::class, 'index'])->name('admin.memberGallery.index');
-        Route::get('/create', [MemberGalleryController::class, 'create'])->name('admin.memberGallery.create');
-        Route::post('/store', [MemberGalleryController::class, 'store'])->name('admin.memberGallery.store');
-        Route::get('/{id}/edit', [MemberGalleryController::class, 'edit'])->name('admin.memberGallery.edit');
-        Route::get('/delete/{id}', [MemberGalleryController::class, 'delete'])->name('admin.memberGallery.delete');
-        Route::put('/{id}/update', [MemberGalleryController::class, 'update'])->name('admin.memberGallery.update');
-        Route::put('/update-status', [MemberGalleryController::class, 'updateStatus'])->name('admin.memberGallery.update.status');
-    });
+    // Route::group(['prefix' => 'member-gallery'], function () {
+    //     Route::get('/index', [MemberGalleryController::class, 'index'])->name('admin.memberGallery.index');
+    //     Route::get('/create', [MemberGalleryController::class, 'create'])->name('admin.memberGallery.create');
+    //     Route::post('/store', [MemberGalleryController::class, 'store'])->name('admin.memberGallery.store');
+    //     Route::get('/{id}/edit', [MemberGalleryController::class, 'edit'])->name('admin.memberGallery.edit');
+    //     Route::get('/delete/{id}', [MemberGalleryController::class, 'delete'])->name('admin.memberGallery.delete');
+    //     Route::put('/{id}/update', [MemberGalleryController::class, 'update'])->name('admin.memberGallery.update');
+    //     Route::put('/update-status', [MemberGalleryController::class, 'updateStatus'])->name('admin.memberGallery.update.status');
+    // });
 
     //Programs
     Route::group(['prefix' => 'programs'], function () {
@@ -112,15 +112,15 @@ Route::middleware(['preventBackHistory', 'admin'])->group(function () {
     });
 
     //Project Follow-up
-    Route::group(['prefix' => 'project-follow-up'], function () {
-        Route::get('/index', [ProjectFollowUpController::class, 'index'])->name('admin.project_follow_up.index');
-        Route::get('/create', [ProjectFollowUpController::class, 'create'])->name('admin.project_follow_up.create');
-        Route::post('/store', [ProjectFollowUpController::class, 'store'])->name('admin.project_follow_up.store');
-        Route::get('/{id}/edit', [ProjectFollowUpController::class, 'edit'])->name('admin.project_follow_up.edit');
-        Route::get('/delete/{id}', [ProjectFollowUpController::class, 'delete'])->name('admin.project_follow_up.delete');
-        Route::put('/{id}/update', [ProjectFollowUpController::class, 'update'])->name('admin.project_follow_up.update');
-        Route::put('/update-status', [ProjectFollowUpController::class, 'updateStatus'])->name('admin.project_follow_up.update.status');
-    });
+    // Route::group(['prefix' => 'project-follow-up'], function () {
+    //     Route::get('/index', [ProjectFollowUpController::class, 'index'])->name('admin.project_follow_up.index');
+    //     Route::get('/create', [ProjectFollowUpController::class, 'create'])->name('admin.project_follow_up.create');
+    //     Route::post('/store', [ProjectFollowUpController::class, 'store'])->name('admin.project_follow_up.store');
+    //     Route::get('/{id}/edit', [ProjectFollowUpController::class, 'edit'])->name('admin.project_follow_up.edit');
+    //     Route::get('/delete/{id}', [ProjectFollowUpController::class, 'delete'])->name('admin.project_follow_up.delete');
+    //     Route::put('/{id}/update', [ProjectFollowUpController::class, 'update'])->name('admin.project_follow_up.update');
+    //     Route::put('/update-status', [ProjectFollowUpController::class, 'updateStatus'])->name('admin.project_follow_up.update.status');
+    // });
 
     //Donation Request
     Route::group(['prefix' => 'donation-request'], function () {
@@ -179,26 +179,26 @@ Route::middleware(['preventBackHistory', 'admin'])->group(function () {
     });
 
     //Folder
-    Route::group(['prefix' => 'admin/folder'], function () {
-        Route::get('/index', [FolderController::class, 'index'])->name('admin.folder.index');
-        Route::get('/create', [FolderController::class, 'create'])->name('admin.folder.create');
-        Route::post('/store', [FolderController::class, 'store'])->name('admin.folder.store');
-        Route::get('/{folder_id}/edit', [FolderController::class, 'edit'])->name('admin.folder.edit');
-        Route::get('/delete/{folder_id}', [FolderController::class, 'delete'])->name('admin.folder.delete');
-        Route::put('/{folder_id}/update', [FolderController::class, 'update'])->name('admin.folder.update');
-        Route::put('/update-status', [FolderController::class, 'updateStatus'])->name('admin.folder.update.status');
-    });
+    // Route::group(['prefix' => 'admin/folder'], function () {
+    //     Route::get('/index', [FolderController::class, 'index'])->name('admin.folder.index');
+    //     Route::get('/create', [FolderController::class, 'create'])->name('admin.folder.create');
+    //     Route::post('/store', [FolderController::class, 'store'])->name('admin.folder.store');
+    //     Route::get('/{folder_id}/edit', [FolderController::class, 'edit'])->name('admin.folder.edit');
+    //     Route::get('/delete/{folder_id}', [FolderController::class, 'delete'])->name('admin.folder.delete');
+    //     Route::put('/{folder_id}/update', [FolderController::class, 'update'])->name('admin.folder.update');
+    //     Route::put('/update-status', [FolderController::class, 'updateStatus'])->name('admin.folder.update.status');
+    // });
 
     //Document
-    Route::group(['prefix' => 'admin/document'], function () {
-        Route::get('/index', [DocumentController::class, 'index'])->name('admin.document.index');
-        Route::get('/create', [DocumentController::class, 'create'])->name('admin.document.create');
-        Route::post('/store', [DocumentController::class, 'store'])->name('admin.document.store');
-        Route::get('/{document_id}/edit', [DocumentController::class, 'edit'])->name('admin.document.edit');
-        Route::get('/delete/{document_id}', [DocumentController::class, 'delete'])->name('admin.document.delete');
-        Route::put('/{document_id}/update', [DocumentController::class, 'update'])->name('admin.document.update');
-        Route::put('/update-status', [DocumentController::class, 'updateStatus'])->name('admin.document.update.status');
-    });
+    // Route::group(['prefix' => 'admin/document'], function () {
+    //     Route::get('/index', [DocumentController::class, 'index'])->name('admin.document.index');
+    //     Route::get('/create', [DocumentController::class, 'create'])->name('admin.document.create');
+    //     Route::post('/store', [DocumentController::class, 'store'])->name('admin.document.store');
+    //     Route::get('/{document_id}/edit', [DocumentController::class, 'edit'])->name('admin.document.edit');
+    //     Route::get('/delete/{document_id}', [DocumentController::class, 'delete'])->name('admin.document.delete');
+    //     Route::put('/{document_id}/update', [DocumentController::class, 'update'])->name('admin.document.update');
+    //     Route::put('/update-status', [DocumentController::class, 'updateStatus'])->name('admin.document.update.status');
+    // });
 
     //Volunteer
     Route::group(['prefix' => 'admin/volunteer'], function () {

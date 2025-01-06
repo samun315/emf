@@ -66,7 +66,7 @@
     --thm-font: 'Inter', sans-serif;
     --thm-great-vibes-font: 'Great Vibes', cursive;
     --thm-pony-tale-font: pony-tale;
-    --thm-primary: #d53f34;
+    --thm-primary: #345fd5;
     --thm-primary-rgb: 213, 63, 52;
     --thm-color-2: #e5ac1b;
     --thm-color-2-rgb: 229, 172, 27;
@@ -6362,9 +6362,9 @@ select:focus {
     transition: all 900ms ease 100ms;
 }
 
-.event-style1_image-box:hover:before {
+/* .event-style1_image-box:hover:before {
     transform: skew(0deg) translateY(0);
-}
+} */
 
 
 
@@ -7613,10 +7613,10 @@ select:focus {
     z-index: 1;
 }
 
-.single-cause-style1:hover .img-holder:before {
+/* .single-cause-style1:hover .img-holder:before {
     opacity: 0.50;
     transform: perspective(400px) scaleY(1.0);
-}
+} */
 
 .single-cause-style1 .img-holder img {
     width: 100%;

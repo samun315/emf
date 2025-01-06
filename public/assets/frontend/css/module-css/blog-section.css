@@ -4,7 +4,7 @@
 
 
 
-/*** 
+/***
 =============================================
     Blog Style1 Area Css
 =============================================
@@ -36,7 +36,7 @@
     display: block;
     overflow: hidden;
 }
-.single-blog-style1 .img-holder .inner:before {
+/* .single-blog-style1 .img-holder .inner:before {
     position: absolute;
     content: '';
     top: 0;
@@ -55,7 +55,7 @@
     -ms-transform-origin: top;
     transform-origin: top;
     z-index: 1;
-}
+} */
 .single-blog-style1:hover .img-holder .inner:before{
     opacity: .65;
     -webkit-transform: perspective(400px) rotateX(0deg);
@@ -81,7 +81,7 @@
     transform-origin: bottom;
 }
 .single-blog-style1:hover .img-holder .overlay-icon{
-    transform: perspective(400px) scaleY(1.0);    
+    transform: perspective(400px) scaleY(1.0);
 }
 .single-blog-style1 .img-holder .overlay-icon a{
     position: relative;
@@ -111,19 +111,19 @@
     transform: scaleY(0);
     z-index: 1;
 }
-.single-blog-style1:hover .img-holder .inner:after{
+/* .single-blog-style1:hover .img-holder .inner:after{
     opacity: 0.35;
-    transform: scaleY(1.0);    
-}
+    transform: scaleY(1.0);
+} */
 .single-blog-style1 .img-holder img{
     width: 100%;
     transition: all 200ms linear;
     transition-delay: 0.1s;
 }
-.single-blog-style1:hover .img-holder img {
+/* .single-blog-style1:hover .img-holder img {
     transform: scale(1.2);
     transition: all 0.5s cubic-bezier(0.62, 0.21, 0.45, 1.52);
-}
+} */
 
 .single-blog-style1 .img-holder .date-box {
     position: absolute;
@@ -233,12 +233,12 @@
     transition-delay: 0.1s;
 }
 .single-blog-style1 .text-holder .meta-info li a:hover{
-    color: var(--thm-primary);    
+    color: var(--thm-primary);
 }
 
 
 
-/*** 
+/***
 =============================================
     Blog update Area Css
 =============================================
@@ -252,7 +252,7 @@
 .blog-update-area .auto-container{
     max-width: 100%;
     padding-left: 150px;
-    padding-right: 0;    
+    padding-right: 0;
 }
 .blog-update_content{
     position: relative;
@@ -261,7 +261,7 @@
 
 
 
-/*** 
+/***
 =============================================
     Blog Page One Css
 =============================================
@@ -280,7 +280,7 @@
 
 
 
-/*** 
+/***
 =============================================
     Blog Page Two Css
 =============================================
@@ -454,7 +454,7 @@
     margin: 0 0 26px;
 }
 .blog-style3-text-holder .blog-title a{
-    color: #ffffff;    
+    color: #ffffff;
 }
 .blog-style3-text-holder .name{
     position: relative;
@@ -493,7 +493,7 @@
 
 
 
-/*** 
+/***
 =============================================
     Blog Details Area Css
 =============================================
@@ -707,7 +707,7 @@
 .author-box-holder .inner-box .text-box{
     position: relative;
     display: block;
-    padding-left: 40px;    
+    padding-left: 40px;
 }
 .author-box-holder .inner-box .text-box h3{
     font-size: 22px;

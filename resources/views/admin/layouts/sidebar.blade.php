@@ -6,8 +6,8 @@
     <div class="aside-logo flex-column-auto" id="kt_aside_logo">
         <!--begin::Logo-->
         <a href="{{ url('/dashboard') }}" class="text-black">
-            {{-- <img style="height: 45px" src="{{ asset('assets/frontend/images/logo.png') }}" alt="logo"> --}}
-            M22 Charity
+            <img style="height: 45px" src="{{ asset('assets/frontend/logo/EMF-Final-Logofor-Web.png') }}" alt="logo">
+
         </a>
         <!--end::Logo-->
         <!--begin::Aside toggler-->
@@ -56,7 +56,7 @@
                     </a>
                 </div>
 
-                <div class="menu-item">
+                {{-- <div class="menu-item">
                     <a class="menu-link {{ request()->is('member-gallery/*') ? 'active' : '' }}"
                        href="{{ route('admin.memberGallery.index') }}">
                         <span class="menu-icon">
@@ -64,7 +64,7 @@
                         </span>
                         <span class="menu-title">Manage Member Gallery</span>
                     </a>
-                </div>
+                </div> --}}
 
                 <div class="menu-item">
                     <a class="menu-link {{ request()->is('member/*') ? 'active' : '' }}"
@@ -116,7 +116,7 @@
                     </a>
                 </div>
 
-                <div class="menu-item">
+                {{-- <div class="menu-item">
                     <a class="menu-link {{ request()->is('admin/folder/*') ? 'active' : '' }}"
                         href="{{ route('admin.folder.index') }}">
                         <span class="menu-icon">
@@ -124,9 +124,9 @@
                         </span>
                         <span class="menu-title">Manage Folder</span>
                     </a>
-                </div>
+                </div> --}}
 
-                <div class="menu-item">
+                {{-- <div class="menu-item">
                     <a class="menu-link {{ request()->is('admin/document/*') ? 'active' : '' }}"
                         href="{{ route('admin.document.index') }}">
                         <span class="menu-icon">
@@ -134,7 +134,7 @@
                         </span>
                         <span class="menu-title">Manage Document</span>
                     </a>
-                </div>
+                </div> --}}
 
                 <div class="menu-item">
                     <a class="menu-link {{ request()->is('quotes/*') ? 'active' : '' }}"
@@ -156,7 +156,7 @@
                     </a>
                 </div>
 
-                <div class="menu-item">
+                {{-- <div class="menu-item">
                     <a class="menu-link {{ request()->is('admin/photo-gallery') ? 'active' : '' }}"
                         href="{{ route('admin.photoGallery.index') }}">
                         <span class="menu-icon">
@@ -164,7 +164,7 @@
                         </span>
                         <span class="menu-title">Photo Gallery</span>
                     </a>
-                </div>
+                </div> --}}
 
                 <div class="menu-item">
                     <div class="menu-content pb-2">
@@ -203,7 +203,7 @@
                     </a>
                 </div>
 
-                <div class="menu-item">
+                {{-- <div class="menu-item">
                     <a class="menu-link {{ request()->is('project-follow-up/*') ? 'active' : '' }}"
                         href="{{ route('admin.project_follow_up.index') }}">
                         <span class="menu-icon">
@@ -211,7 +211,7 @@
                         </span>
                         <span class="menu-title">Manage Project Follow-up</span>
                     </a>
-                </div>
+                </div> --}}
 
                 <div class="menu-item">
                     <a class="menu-link {{ request()->is('event/*') ? 'active' : '' }}"
