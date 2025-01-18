@@ -63,8 +63,8 @@
                             </div>
                         </div>
                         <div class="title-holder">
-                            <h4>Dr Mohammad Anwar Javed</h4>
-                            <p>Chairman, M22 Doctors&rsquo; Foundation</p>
+                            <h4>Engineer Moqbul Hussain Patwary</h4>
+                            <p>Chairman, Engineer Moqbul Foundation (EMF).</p>
                         </div>
                     </div>
                 </div>
