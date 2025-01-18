@@ -1,6 +1,6 @@
-<link rel="icon" href="{{ asset('assets/backend/media/logos/m22_logo.png') }}" type="image/png">
+<link rel="icon" href="{{ asset('assets/backend/media/logos/EMF-Final-Logo-footer.png') }}" type="image/png">
 
-<link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
+
 
 <!--begin::Fonts-->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />

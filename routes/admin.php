@@ -151,7 +151,7 @@ Route::middleware(['preventBackHistory', 'admin'])->group(function () {
         Route::get('/create', [SliderController::class, 'create'])->name('admin.slider.create');
         Route::post('/store', [SliderController::class, 'store'])->name('admin.slider.store');
         Route::get('/{slider_id}/edit', [SliderController::class, 'edit'])->name('admin.slider.edit');
-        Route::get('/{slider_id}/delete', [SliderController::class, 'delete'])->name('admin.slider.delete');
+        Route::get('/delete/{slider_id}', [SliderController::class, 'delete'])->name('admin.slider.delete');
         Route::put('/{slider_id}/update', [SliderController::class, 'update'])->name('admin.slider.update');
         Route::put('/update-status', [SliderController::class, 'updateStatus'])->name('admin.slider.update.status');
     });

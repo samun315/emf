@@ -78,21 +78,21 @@
                     <div class="col-xl-12 text-justify bg-white">
                         <p>Dear Members, Supporters, and Well-Wishers,</p>
 
-                        <p>I am deeply honored and humbled to address you as the Chairman of M22 Doctors&rsquo; Association.&nbsp;</p>
+                        <p>I am extremely honored and humbled to address you as the Chairman of “Engineer Moqbul Foundation’s” (EMF).&nbsp;</p>
 
-                        <p>Our organization, founded and led by a dedicated group of Doctors from the Mymensingh Medical College (batch M22), to devote themselves towards people with less or no income (the marginal people of Bangladesh) with the aim to make their life self-reliant. Our mission is simple yet profound i.e., to make a positive impact on the lives of the underserved and vulnerable members of our society. Since our inception, we have achieved remarkable milestones, thanks to the unwavering dedication, support &amp; generosity of our members. In the process, we have been able to touch four families and offered hope where it was needed the most.</p>
+                        <p>Our organization, founded and lead by a dedicated group of young, energetic, honest, self-motivated people to devote themselves towards people with “poor or no income” (the marginal people of Bangladesh) with the aim to make their empowering life. Our mission is simple yet profound i.e., to make a positive impact on the lives of the underserved and vulnerable/sensitive people of our society. Since our inception, we have achieved remarkable milestones, thanks to the unwavering dedication, support & generosity of our members. In the process, we have been able to touch thousands of families without record under Engineer Moqbul Foundation’s (EMF) but we also able to touch ten families with record under Engineer Moqbul Foundation’s (EMF) and we offered hope where it was needed the most.</p>
 
                         <p>As we move forward, our commitment to our mission remains resolute. We will continue to strive for excellence in all our endeavors, uphold the highest standards of professionalism and ethics, and work tirelessly to address the challenges facing our nation. Together, we will make a meaningful difference in the lives of the less fortunate and contribute to building a healthier and more equitable Bangladesh.</p>
 
-                        <p>I would like to express my heartfelt gratitude to our dedicated team of M22 friends, whose tireless efforts make our work possible. Your passion and commitment are the driving force behind our Foundation&#39;s success, and I am truly proud to stand beside each one of you.</p>
+                        <p>I would like to express my heartfelt gratitude to our dedicated people of Shahrasti thana, whose tireless efforts make our work possible. Your passion and commitment are the driving force behind our Foundation's success, and I am truly proud to stand beside each one of you.</p>
 
-                        <p>I extend my sincere appreciation to our donors and supporters, without whom our work would not be possible. Your generosity enables us to reach out to more individuals and communities in need, and your trust in M22 Doctors&rsquo; Foundation is a testament to the impact we can create together.</p>
+                        <p>I extend my sincere appreciation to our donors and supporters, well-wishers without whom our work would not be possible. Your generosity enables us to reach out to more individuals and communities in need, and your trust in Engineer Moqbul Foundation’s (EMF) is a testament to the impact we can create together.</p>
 
                         <p>In the coming years, we have ambitious plans and projects in the pipeline. We will expand our reach, enhance our programs, and deepen our engagement with the communities we serve. I invite all of you to join hands with us, whether through volunteering, donating, or spreading the word about our mission. Together, we can achieve even greater milestones and transform lives on a larger scale.</p>
 
                         <p>In closing, I want to reaffirm our commitment to our core values of compassion, integrity, and inclusivity. Let us continue to work together with unwavering dedication, boundless empathy, and a shared vision of a brighter future for all.</p>
 
-                        <p>Thank you for your trust, your support, and your belief in M22 Doctors&rsquo; Foundation. Together, we are making a real and lasting impact, one life at a time.</p>
+                        <p>Thank you for your trust, your support, and your belief in Engineer Moqbul Foundation (EMF) Together, we are making a real and lasting impact, one life at a time.</p>
 
                         <p>&nbsp;</p>
 
@@ -100,9 +100,9 @@
 
                         <p>&nbsp;</p>
 
-                        <p>Dr Mohammad Anwar Javed</p>
+                        <p>Engineer Moqbul Hussain Patwary</p>
 
-                        <p>Chairman, M22 Doctors&rsquo; Foundation</p>
+                        <p>Chairman, Engineer Moqbul Foundation (EMF).</p>
                     </div>
                 </div>
             </div>

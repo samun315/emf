@@ -5,18 +5,18 @@
 
 <head>
     <base href="/">
-    <title>M22 Charity - @yield('title')</title>
+    <title>Engineer Moqbul Foundation (EMF) - @yield('title')</title>
     <meta charset="utf-8" />
     <meta name="description"
         content="The Holcim Group, legally known as Holcim Limited, is a Swiss-French multinational company that manufactures building materials. It has a presence in around 70 countries, and employs around 72,000 employees" />
-    <meta name="keywords" content="M22 Charity, IdeaAgroMart, ideaagromart" />
+    <meta name="keywords" content="Engineer Moqbul Foundation (EMF), IdeaAgroMart, ideaagromart" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title"
         content="The Holcim Group, legally known as Holcim Limited, is a Swiss-French multinational company that manufactures building materials. It has a presence in around 70 countries, and employs around 72,000 employees" />
-    <meta property="og:site_name" content="M22 Charity" />
+    <meta property="og:site_name" content="Engineer Moqbul Foundation (EMF)" />
 
     @include('admin.layouts.stylesheet')
 
