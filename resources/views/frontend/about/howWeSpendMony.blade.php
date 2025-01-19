@@ -1,6 +1,6 @@
 @extends('frontend.master')
 
-@section('frontend_title', 'How we spend your money')
+@section('frontend_title', 'How we spend your donation')
 
 @section('frontend_main_content')
 
@@ -28,14 +28,14 @@
                             </div>
                         </div>
                         <div class="title">
-                            <h2>How we spend your money</h2>
+                            <h2>How we spend your donation</h2>
                         </div>
                         <div class="border-box"></div>
                         <div class="breadcrumb-menu">
                             <ul>
                                 <li><a href="/">Home</a></li>
                                 <li><span class="flaticon-right-arrow"></span></li>
-                                <li class="active">How we spend your money</li>
+                                <li class="active">How we spend your donation</li>
                             </ul>
                         </div>
                     </div>
@@ -52,22 +52,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <h3>HOW WE SPEND YOUR MONEY:</h3>
+                    <h3>HOW WE SPEND YOUR DONATION:</h3>
 
-                    <p>Integrity, honesty, and transparency are central to our values as an organization. In fact, they are part of our core values. We’re committed to distribute your contributions among the marginal people of Bangladesh. We spent your money in the following areas: </p>
-                    <p>[1] Foundations project development: 90% </p>
-                    <p>[2] Fundraising: 05%</p>
-                    <p>[3] Administrative & Information technology: 05%</p>
+                    <p>Honesty, Respect, Integrity and transparency are central to our values as an organization. In fact, they are part of our core values. We’re confidently committed to distribute your contributions among the marginal people of Bangladesh. We spent your donation in the following areas: </p>
+                    <p>[1] Engineer Moqbul Foundation’s (EMF) project development and Implement: 88% </p>
+                    <p>[2] Engineer Moqbul Foundation’s (EMF) Fundraising: 05%</p>
+                    <p>[3] Foundation’s Administrative & Information technology: 07%</p>
                     <img src="{{asset('assets/images/money-spend.JPG')}}" alt="">
-                    <p>• We maintain the highest accountability standard in spending your money.</p>
+                    <p>• We ensure the highest accountability standard in spending your donation.</p>
                     <p>• We try to keep the lowest administrative expenditure.</p>
                     <div style="text-align: center">
                         <p>Do you have a question about our accountability measures?</p>
                         <a href="/contact-us" class="btn-one btn-one-style2">CONTACT US</a>
                         <br>
                         <br>
-                        <h3>M22 Doctors’ Foundation</h3>
-                        <h5>Updated: 11.03.2024</h5>
+                        <h3>Engineer Moqbul Foundation’s (EMF)</h3>
+                        <h5>Updated: 20.01.2025</h5>
                         <br>
                     </div>
                 </div>
