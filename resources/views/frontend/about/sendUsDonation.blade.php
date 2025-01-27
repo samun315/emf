@@ -81,7 +81,7 @@
                 <div class="col-md-4"></div>
                 <div class="col-md-4 d-flex justify-content-center" style="margin-top: 30px;">
                     <div class="text-center justify-content-center">
-                        <a href="/"> <img style="width: 150px; height: 150px" src="http://127.0.0.1:8000/assets/frontend/logo/EMF-Final-Logo-footer.png" alt="logo"></a>
+                        <a href="/"> <img style="width: 150px; height: 150px" src="assets/frontend/logo/EMF-Final-Logo-footer.png" alt="logo"></a>
                     </div>
 
                 </div>

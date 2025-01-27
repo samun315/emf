@@ -73,7 +73,7 @@
 
                     <div class="text-center justify-content-center">
                         <br><br>
-                        <a href="/"> <img style="width: 150px; height: 150px" src="http://127.0.0.1:8000/assets/frontend/logo/EMF-Final-Logo-footer.png" alt="logo"></a>
+                        <a href="/"> <img style="width: 150px; height: 150px" src="assets/frontend/logo/EMF-Final-Logo-footer.png" alt="logo"></a>
                         <br><br>
                     </div>
                     <h6 class="text-center"><a href="/all-programs">Engineer Moqbul Foundation (EMF)</a> </h6>
