@@ -95,7 +95,7 @@
                                                                 <div class="col-xl-7">
                                                                     <div class="mission-vision-content-box1">
 
-                                                                        <p>“Our aspiration is universal happiness and empowerment. We aim to create a world where every individual not only experiences genuine joy but also feels empowered to lead their best life.”</p>
+                                                                        <b>“Our aspiration is universal happiness and empowerment. We aim to create a world where every individual not only experiences genuine joy but also feels empowered to lead their best life.”</b>
 
                                                                     </div>
                                                                 </div>
@@ -115,7 +115,7 @@
                                                                 <div class="col-xl-7">
                                                                     <div class="mission-vision-content-box1">
 
-                                                                        <p>Our organization is committed to empowering individuals and enriching society through comprehensive training, development initiatives, contributing significantly to national development. We focus on education, healthcare, economic opportunities, and environmental conservation to foster sustainable growth. Our approach specialized training, facilitation of quality education and healthcare, economic empowerment, and environmental advocacy. By utilizing collaborative and innovative strategies, our goal is to fortify communities, ensuring individual empowerment, societal advancement, and substantial contributions to our nation's sustainable and prosperous future.</p>
+                                                                        <b>Our organization is committed to empowering individuals and enriching society through comprehensive training, development initiatives, contributing significantly to national development. We focus on education, healthcare, economic opportunities, and environmental conservation to foster sustainable growth. Our approach specialized training, facilitation of quality education and healthcare, economic empowerment, and environmental advocacy. By utilizing collaborative and innovative strategies, our goal is to fortify communities, ensuring individual empowerment, societal advancement, and substantial contributions to our nation's sustainable and prosperous future.</b>
                                                                         {{-- <div class="btn-box">
                                                                             <a class="btn-one"
                                                                                 href="https://loveicon.smartdemowp.com/campaigns/contribute-for-the-global-challenges-and-global-responses/">
