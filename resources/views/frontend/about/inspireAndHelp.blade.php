@@ -35,7 +35,7 @@
                             <ul>
                                 <li><a href="/">Home</a></li>
                                 <li><span class="flaticon-right-arrow"></span></li>
-                                <li class="active">Get Inspire And Help</li>
+                                <li class="active">Inspire And Help</li>
                             </ul>
                         </div>
                     </div>
@@ -53,11 +53,13 @@
             <div class="row">
                 <div class="col-xl-4"></div>
                 <div class="col-xl-4" style="margin-top: 30px;">
-                    <h6 class="text-center">To donate money is not only the CHARITY, <br> because “Every good act is a CHARITY”</h6>
+                    <h6 class="text-center">THE SMALLEST ACT
+                        OF KINDNESS IS WORTH MORE THEN <br>
+                        THE GRADEST INTENTION</h6>
                 </div>
                 <div class="col-xl-4"></div>
             </div>
-            <div class="row">
+            {{-- <div class="row">
 
                 <div class="col-xl-12" style="margin-top: 30px;">
 
@@ -65,7 +67,7 @@
                         FOR A GOOD CAUSE</h6>
 
                 </div>
-            </div>
+            </div> --}}
             <div class="row">
                 {{-- <div class="col-md-4"></div> --}}
                 <div class="col-xl-12" style="margin-top: 30px;">
@@ -78,9 +80,7 @@
                 <div class="col-md-4"></div>
                 <div class="col-md-4 d-flex justify-content-center" style="margin-top: 30px;">
                     <div class="text-center justify-content-center">
-                        <div class="circle text-center">
-                            <p style="font-size: 35 px;  font-weight: 900; color:rgb(9, 14, 173)">Get <br> Inspired <br> & <br> Help</p>
-                        </div>
+                        <img src="assets/frontend/images/icon/features/inspired and help.jpg" alt="">
                     </div>
 
                 </div>
@@ -89,7 +89,7 @@
                 {{-- <div class="col-md-4"></div> --}}
                 <div class="col-xl-12" style="margin-top: 30px;">
 
-                    <h6 class="text-center">Contact Us: <a href="/contact-us">M22 Doctors’ Foundation</a></h6>
+                    <h6 class="text-center">Contact Us: <a href="/contact-us">Engineer Moqbul Foundation (EMF)</a></h6>
 
                 </div>
             </div>

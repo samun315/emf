@@ -95,13 +95,8 @@
                                                                 <div class="col-xl-7">
                                                                     <div class="mission-vision-content-box1">
 
-                                                                        <h2>“To promote the marginal people of Bangladesh with the aim to make their life <b>Self-Reliant</b> as well as a <b> Social Entrepreneur</b>”.</h2>
-                                                                        {{-- <div class="btn-box">
-                                                                            <a class="btn-one"
-                                                                                href="https://loveicon.smartdemowp.com/campaigns/contribute-for-the-global-challenges-and-global-responses/">
-                                                                                <span class="txt">Support Us Today</span>
-                                                                            </a>
-                                                                        </div> --}}
+                                                                        <p>“Our aspiration is universal happiness and empowerment. We aim to create a world where every individual not only experiences genuine joy but also feels empowered to lead their best life.”</p>
+
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -120,12 +115,7 @@
                                                                 <div class="col-xl-7">
                                                                     <div class="mission-vision-content-box1">
 
-                                                                        <ul>
-                                                                            <li><span class="fa fa-check"></span>To generate resources through fundraising initiatives and community partnerships, and use those funds to make an impact in the lives of the marginal people.</li>
-                                                                            <li><span class="fa fa-check"></span>To attract Volunteers and Partners who are passionate about helping the underprivileged.</li>
-                                                                            <li><span class="fa fa-check"></span>To develop a sustainable community through helping the destitute & disadvantaged people who need support</li>
-
-                                                                        </ul>
+                                                                        <p>Our organization is committed to empowering individuals and enriching society through comprehensive training, development initiatives, contributing significantly to national development. We focus on education, healthcare, economic opportunities, and environmental conservation to foster sustainable growth. Our approach specialized training, facilitation of quality education and healthcare, economic empowerment, and environmental advocacy. By utilizing collaborative and innovative strategies, our goal is to fortify communities, ensuring individual empowerment, societal advancement, and substantial contributions to our nation's sustainable and prosperous future.</p>
                                                                         {{-- <div class="btn-box">
                                                                             <a class="btn-one"
                                                                                 href="https://loveicon.smartdemowp.com/campaigns/contribute-for-the-global-challenges-and-global-responses/">

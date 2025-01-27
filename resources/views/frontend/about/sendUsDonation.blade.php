@@ -35,7 +35,7 @@
                             <ul>
                                 <li><a href="/">Home</a></li>
                                 <li><span class="flaticon-right-arrow"></span></li>
-                                <li class="active">Send Us Donation</li>
+                                <li class="active">Send Your Donation</li>
                             </ul>
                         </div>
                     </div>
@@ -52,8 +52,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-12" style="margin-top: 30px;">
-                    <h6 class="text-center">Donate for a Good Cause, Make a small contribution be a part of change
-                        <br>Let’s work together to develop a <br><br> <b>"Sustainable Community Welfare"</b></h6>
+                    <h6 class="text-center">Giving is not just, about make a donation It’s About<br>making a difference
+                        <br><br> <b>"Sustainable Community Empowering Life"</b></h6>
                 </div>
                 <div class="col-xl-4"></div>
             </div>
@@ -81,7 +81,7 @@
                 <div class="col-md-4"></div>
                 <div class="col-md-4 d-flex justify-content-center" style="margin-top: 30px;">
                     <div class="text-center justify-content-center">
-                        <a href="/"> <img style="width: 150px; height: 150px" src="http://127.0.0.1:8000/assets/frontend/logo/m22 foundation logo.jpg" alt="logo"></a>
+                        <a href="/"> <img style="width: 150px; height: 150px" src="http://127.0.0.1:8000/assets/frontend/logo/EMF-Final-Logo-footer.png" alt="logo"></a>
                     </div>
 
                 </div>
@@ -90,7 +90,7 @@
                 {{-- <div class="col-md-4"></div> --}}
                 <div class="col-xl-12" style="margin-top: 30px;">
 
-                    <h6 class="text-center"><a href="/contact-us">M22 Doctors’ Foundation</a></h6>
+                    <h6 class="text-center"><a href="/contact-us">Engineer Moqbul Foundation (EMF)</a></h6>
 
                 </div>
             </div>

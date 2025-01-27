@@ -57,9 +57,9 @@
                     <h1 class="text-center">HOW WE HELP? <br><br></h1>
 
                     <ul style="list-style-type:disc !important;">
-                        <li style="list-style-type:disc !important;" >M22 Doctors’ Foundation Sponsor, Implement & Monitor all of its charity projects through a selected “Social -Entrepreneur” or “Community Volunteer Group”. <br> <br>
+                        <li style="list-style-type:disc !important;" ><b>“Engineer Moqbul Foundation (EMF)”</b> Sponsor, Implement & Monitor all of its charity projects through a selected “Social -Entrepreneur Program” or “Healthcare Innovative program”. <br> <br>
                         </li>
-                        <li style="list-style-type:disc !important;" >The selected “Social -Entrepreneur” or “Community Volunteer Group” operate the project accordingly. <br> <br>
+                        <li style="list-style-type:disc !important;" >The selected “Social -Entrepreneur Program” or “Healthcare Innovative program”. operate the project accordingly. <br> <br>
                         </li>
                     </ul>
 
@@ -73,10 +73,10 @@
 
                     <div class="text-center justify-content-center">
                         <br><br>
-                        <a href="/"> <img style="width: 150px; height: 150px" src="http://127.0.0.1:8000/assets/frontend/logo/m22 foundation logo.jpg" alt="logo"></a>
+                        <a href="/"> <img style="width: 150px; height: 150px" src="http://127.0.0.1:8000/assets/frontend/logo/EMF-Final-Logo-footer.png" alt="logo"></a>
                         <br><br>
                     </div>
-                    <h6 class="text-center"><a href="/all-programs">M22 Doctors’ Foundation</a> </h6>
+                    <h6 class="text-center"><a href="/all-programs">Engineer Moqbul Foundation (EMF)</a> </h6>
 
 
 

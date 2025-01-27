@@ -33,18 +33,18 @@
                                 <div class="features-style1_single">
                                     <div class="icon-holder">
                                         <div class="inner">
-                                            <img src="assets/frontend/images/icon/features/feature-v1-1.png" alt="">
+                                            <img src="assets/frontend/images/icon/features/help-removebg-preview.png" alt="">
                                         </div>
                                         <div class="shape1 zoominout">
                                             <img src="assets/frontend/images/icon/features/shape-1.png" alt="">
                                         </div>
-                                        <div class="shape-bg">
+                                        {{-- <div class="shape-bg">
                                             <img src="assets/frontend/images/icon/features/feature-v1-1-bg.png"
                                                 alt="">
-                                        </div>
+                                        </div> --}}
                                     </div>
                                     <div class="text-holder">
-                                        <h3>Get Inspire And Help</h3>
+                                        <h3>Inspire And Help</h3>
                                         <p>To donate money is not only the charity, ................
                                         </p>
                                         <div class="btns-box">
@@ -62,18 +62,18 @@
                                 <div class="features-style1_single style2">
                                     <div class="icon-holder">
                                         <div class="inner">
-                                            <img src="assets/frontend/images/icon/features/feature-v1-2.png" alt="">
+                                            <img src="assets/frontend/images/icon/features/donation-removebg-preview.png" alt="">
                                         </div>
                                         <div class="shape1 zoominout">
                                             <img src="assets/frontend/images/icon/features/shape-1.png" alt="">
                                         </div>
-                                        <div class="shape-bg">
+                                        {{-- <div class="shape-bg">
                                             <img src="assets/frontend/images/icon/features/feature-v1-2-bg.png"
                                                 alt="">
-                                        </div>
+                                        </div> --}}
                                     </div>
                                     <div class="text-holder">
-                                        <h3>Send Us Donations</h3>
+                                        <h3>Send Your Donations</h3>
                                         <p>Donate for a good cause, make a small contribution, be a part of change………
                                         </p>
                                         <div class="btns-box">
