@@ -62,26 +62,22 @@
                                     <div class="row">
                                         <div class="col-xl-12">
                                             <div class="mission-vision-tabs tabs-box">
-                                                <div class="shape1">
-                                                    <img loading="lazy" decoding="async" width="141" height="75"
-                                                        src="https://loveicon.smartdemowp.com/wp-content/uploads/2021/06/thm-shape-13.png"
-                                                        class="attachment-full size-full" alt="">
-                                                </div>
+
                                                 <div class="tab-button-column clearfix">
                                                     <ul class="tab-buttons clearfix">
 
-                                                        <li data-tab="#8457321" class="tab-btn">A Clear Vision</li>
+                                                        <li data-tab="#8457321" class="tab-btn active-btn">A Clear Vision</li>
 
                                                         <li data-tab="#8457322" class="tab-btn style2">Our Mission</li>
 
                                                         <li data-tab="#8457323" class="tab-btn style3">Our Values</li>
 
-                                                        <li data-tab="#8457324" class="tab-btn style4 active-btn">Objective</li>
+                                                        <li data-tab="#8457324" class="tab-btn style4 ">Objective</li>
                                                     </ul>
                                                 </div>
                                                 <div class="mission-vision-content-column clearfix text-right-rtl">
                                                     <div class="tabs-content">
-                                                        <div class="tab" id="8457321" style="display: none;">
+                                                        <div class="tab active-tab" id="8457321" style="display: block;">
                                                             <div class="row clearfix">
                                                                 <div class="col-xl-5">
                                                                     <div class="mission-vision-image-box1">
@@ -160,8 +156,8 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="tab active-tab" id="8457324"
-                                                            style="display: block;">
+                                                        <div class="tab " id="8457324"
+                                                            style="display: none;">
                                                             <div class="row clearfix">
                                                                 <div class="col-xl-5">
                                                                     <div class="mission-vision-image-box1">

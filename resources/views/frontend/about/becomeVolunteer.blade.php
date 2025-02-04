@@ -52,34 +52,72 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-12" style="margin-top: 45px;">
-                    <h6 class="text-center">Being a volunteer has lots of benefits. <br>
-                        Volunteer works give us a sense of achievement and purpose, <br>
-                        thereby improve mental health and sense of wellbeing. <br>
-                        It helps us feel part of a community.
+                    <h6 class="text-center">Volunteering offers numerous benefits. It provides a sense of accomplishment and purpose,<br>
+                        enhancing mental health and overall well-being. Additionally,<br>
+                        it fosters a strong sense of community and belonging.
                         </h6>
                 </div>
                 <div class="col-xl-4"></div>
             </div>
+            <br>
+            <br>
             <div class="row">
-                <div class="col-md-6 d-flex justify-content-center" style="margin-top: 45px;">
-                    <div class="text-center justify-content-center">
-                        <div class="circle2 text-center">
-                            <div>
-                                <h5>BECOME A FUNDRAISING <br> VOLUNTEER:</h5>
-                                <p>Help, raise money for M22 Doctors’ Foundation in your local community</p>
-                            </div>
-
+                <div class="col-xl-12">
+                    <div class="features-style1_box">
+                        <div class="thm-shape1 wow slideInRight" data-wow-delay="0ms" data-wow-duration="3500ms">
+                            <img class="rotate-me" src="assets/frontend/images/shape/thm-shape-1.png" alt="">
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-6 d-flex justify-content-center" style="margin-top: 45px;">
-                    <div class="text-center justify-content-center">
-                        <div class="circle2 text-center">
-                            <div>
-                                <h5>BECOME A PROJECT ORGANIZER <br> FOR THE NEEDY</h5>
-                                <p>Inform us any help we can do at your locality</p>
-                            </div>
+                        <div class="row">
+                            <div class="col-xl-1 col-lg-1"> </div>
+                            <!--Start Features Style1 Single-->
+                            <div class="col-xl-4 col-lg-4 text-center" data-aos="fade-up" data-aos-easing="linear"
+                                data-aos-duration="500">
+                                <div class="features-style1_single">
+                                    <div class="icon-holder">
+                                        <div class="inner">
+                                            <img src="assets/frontend/images/icon/features/feature-v2-2.png" alt="">
+                                        </div>
+                                        <div class="shape1 zoominout">
+                                            <img src="assets/frontend/images/icon/features/shape-1.png" alt="">
+                                        </div>
+                                        {{-- <div class="shape-bg">
+                                            <img src="assets/frontend/images/icon/features/feature-v1-1-bg.png"
+                                                alt="">
+                                        </div> --}}
+                                    </div>
+                                    <div class="text-holder">
+                                        <h3>Become a Fundraising Volunteer</h3>
+                                        <p>Support your local community by helping raise funds for the Engineer Moqbul Foundation (EMF).</p>
 
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Features Style1 Single-->
+                            <div class="col-xl-2 col-lg-2"> </div>
+                            <!--Start Features Style1 Single-->
+                            <div class="col-xl-4 col-lg-4 text-center" data-aos="fade-up" data-aos-easing="linear"
+                                data-aos-duration="600">
+                                <div class="features-style1_single style2">
+                                    <div class="icon-holder">
+                                        <div class="inner">
+                                            <img src="assets/frontend/images/icon/features/feature-v2-3.png" alt="">
+                                        </div>
+                                        <div class="shape1 zoominout">
+                                            <img src="assets/frontend/images/icon/features/shape-1.png" alt="">
+                                        </div>
+                                        {{-- <div class="shape-bg">
+                                            <img src="assets/frontend/images/icon/features/feature-v1-2-bg.png"
+                                                alt="">
+                                        </div> --}}
+                                    </div>
+                                    <div class="text-holder">
+                                        <h3>Become a Project Organizer for the Needy</h3>
+                                        <p>Let us know how we can assist your community.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Features Style1 Single-->
                         </div>
                     </div>
                 </div>
@@ -96,10 +134,7 @@
                 {{-- <div class="col-md-4"></div> --}}
                 <div class="col-xl-12" style="margin-top: 50px;">
 
-                    <h6 class="text-center">CONTACT US to become a volunteer
-                        <a href="/contact-us">M22 Doctors’ Foundation</a> implement projects though a
-                        Community Volunteers’ Group
-                        </h6>
+                    <h6 class="text-center">Join the <a href="/contact-us">Engineer Moqbul Foundation (EMF)</a> in implementing projects through our Community Volunteers’ Group.</h6>
 
                 </div>
             </div>

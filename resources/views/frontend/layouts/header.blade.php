@@ -22,7 +22,7 @@
                 <div class="header-left clearfix pull-left">
                     <div class="logo">
                         <a href="/">
-                            <img style="width: 298px; height:74px"
+                            <img style="width: 230px; height:70px"
                                 src="{{ asset('assets/frontend/logo/EMF-Final-Logofor-Web.png') }}" alt="Logo"
                                 title="">
                         </a>
@@ -49,7 +49,7 @@
                                             href="/about-us">About Us</a>
                                     </li> --}}
 
-                                    <li class="dropdown"><a href="javascrip:void(0)">About Us</a>
+                                    <li class="dropdown"><a href="javascrip:void(0)">About</a>
                                         <ul>
                                             <li><a href="/about-us">About Us</a></li>
                                             <li><a href="/what-makes-us-apart">What Makes us Apart</a></li>
@@ -100,7 +100,7 @@
                                             href="/gallery">Gallery</a>
                                     </li>
                                     <li class="{{ request()->is('contact-us') ? 'current' : '' }}"><a
-                                            href="{{ route('frontend.contactUs') }}">Contact Us</a>
+                                            href="{{ route('frontend.contactUs') }}">Contact</a>
                                     </li>
                                     {{-- <li><div class="btns-box"><a class="btn-one" href="/member-login">Login</a></div></li> --}}
                                 </ul>
@@ -109,12 +109,12 @@
                         <!-- Main Menu End-->
                     </div>
 
-                    {{-- <div class="header-right_buttom">
+                    <div class="header-right_buttom">
                         <div class="btns-box">
                             <button class="btn-one" data-toggle="modal" data-target="#myModal"><span class="txt"><i
                                         class="arrow1 fa fa-check-circle"></i>Donate Now</span></button>
                         </div>
-                    </div> --}}
+                    </div>
 
                 </div>
             </div>

@@ -33,7 +33,8 @@
                                 <div class="features-style1_single">
                                     <div class="icon-holder">
                                         <div class="inner">
-                                            <img src="assets/frontend/images/icon/features/help-removebg-preview.png" alt="">
+                                            <img src="assets/frontend/images/icon/features/help-removebg-preview.png"
+                                                alt="">
                                         </div>
                                         <div class="shape1 zoominout">
                                             <img src="assets/frontend/images/icon/features/shape-1.png" alt="">
@@ -62,7 +63,8 @@
                                 <div class="features-style1_single style2">
                                     <div class="icon-holder">
                                         <div class="inner">
-                                            <img src="assets/frontend/images/icon/features/donation-removebg-preview.png" alt="">
+                                            <img src="assets/frontend/images/icon/features/donation-removebg-preview.png"
+                                                alt="">
                                         </div>
                                         <div class="shape1 zoominout">
                                             <img src="assets/frontend/images/icon/features/shape-1.png" alt="">
@@ -91,15 +93,15 @@
                                 <div class="features-style1_single style3">
                                     <div class="icon-holder">
                                         <div class="inner">
-                                            <img src="assets/frontend/images/icon/features/feature-v1-3.png" alt="">
+                                            <img src="assets/frontend/images/icon/features/feature-v2-4.png" alt="">
                                         </div>
                                         <div class="shape1 zoominout">
                                             <img src="assets/frontend/images/icon/features/shape-1.png" alt="">
                                         </div>
-                                        <div class="shape-bg">
+                                        {{-- <div class="shape-bg">
                                             <img src="assets/frontend/images/icon/features/feature-v1-3-bg.png"
                                                 alt="">
-                                        </div>
+                                        </div> --}}
                                     </div>
                                     <div class="text-holder">
                                         <h3>Become A Volunteer</h3>
@@ -173,10 +175,25 @@
                                 <div class="progress-levels">
                                     <!--Skill Box-->
                                     <div class="progress-box wow">
+                                        <?php
+                                        $budget = $featured_project->budget; // Total budget
+                                        $achieved = $featured_project->achieved; // Achieved amount
+
+                                        // Calculate percentage
+                                        if ($budget > 0) {
+                                            $percentage = ($achieved / $budget) * 100;
+                                        } else {
+                                            $percentage = 0; // Avoid division by zero
+                                        }
+
+                                        // Round the percentage to 2 decimal places
+                                        $percentage = round($percentage, 2);
+
+                                        ?>
                                         <div class="inner count-box">
                                             <div class="bar">
                                                 <div class="bar-innner">
-                                                    <div class="bar-fill" data-percent="65" title="Book"></div>
+                                                    <div class="bar-fill" data-percent="{{ $percentage }}" title="Book"></div>
                                                 </div>
                                                 <div class="text">Achieved:
                                                     {{ number_format($featured_project->achieved, 2) }}</div>
@@ -185,9 +202,10 @@
                                             </div>
 
                                             <div class="skill-percent">
-                                                <span class="count-text" data-speed="3000" data-stop="65">0</span>
+                                                <span class="count-text"
+                                                    data-speed="3000"data-stop="{{ $percentage }}">{{ $percentage }}</span>
                                                 <span class="percent">%</span>
-                                                <span class="outer-text">Pledged So Far</span>
+                                                {{-- <span class="outer-text">Pledged So Far</span> --}}
                                             </div>
                                         </div>
                                     </div>
@@ -244,10 +262,26 @@
                                     <div class="progress-levels progress-levels-style2">
                                         <!--Skill Box-->
                                         <div class="progress-box wow">
+                                            <?php
+                                            $budget = $project->budget; // Total budget
+                                            $achieved = $project->achieved; // Achieved amount
+
+                                            // Calculate percentage
+                                            if ($budget > 0) {
+                                                $percentage = ($achieved / $budget) * 100;
+                                            } else {
+                                                $percentage = 0; // Avoid division by zero
+                                            }
+
+                                            // Round the percentage to 2 decimal places
+                                            $percentage = round($percentage, 2);
+
+                                            ?>
                                             <div class="inner count-box">
                                                 <div class="bar">
                                                     <div class="bar-innner">
-                                                        <div class="bar-fill" data-percent="50" title="Book">
+                                                        <div class="bar-fill" data-percent="{{ $percentage }}"
+                                                            title="Book">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -256,9 +290,10 @@
                                                         <p>Achieved<span>BDT {{ $project->achieved }}</span></p>
                                                         <p>Target<span>BDT {{ $project->budget }}</span></p>
                                                     </div>
+
                                                     <div class="skill-percent">
                                                         <span class="count-text" data-speed="3000"
-                                                            data-stop="50">0</span>
+                                                            data-stop="{{ $percentage }}">{{ $percentage }}</span>
                                                         <span class="percent">%</span>
                                                         <p class="outer-text">Achieved So Far</p>
                                                     </div>
