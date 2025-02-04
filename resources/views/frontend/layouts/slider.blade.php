@@ -24,7 +24,7 @@
                                             help</span>
                                     </a>
                                     <a class="btn-one marlft15" data-toggle="modal" data-target="#myModal">
-                                        <span class="txt"><i class="arrow1 fa fa-check-circle"></i>donate
+                                        <span class="txt" style="color: white"><i class="arrow1 fa fa-check-circle"></i>donate
                                             us</span>
                                     </a>
                                 </div>
