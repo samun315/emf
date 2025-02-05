@@ -334,7 +334,7 @@
                     </div>
                 </div>
 
-                <div class="menu-item">
+                {{-- <div class="menu-item">
                     <a class="menu-link {{ request()->is('setting/about-us') ? 'active' : '' }}"
                         href="{{ route('admin.aboutUsSetting.showAboutUsForm') }}">
                         <span class="menu-icon">
@@ -342,7 +342,7 @@
                         </span>
                         <span class="menu-title">About Us Setting</span>
                     </a>
-                </div>
+                </div> --}}
 
                 <div class="menu-item">
                     <a class="menu-link {{ request()->is('setting/contact-us') ? 'active' : '' }}"
