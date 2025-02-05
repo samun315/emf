@@ -67,7 +67,7 @@
                         <br>
                         <br>
                         <h3>Engineer Moqbul Foundation’s (EMF)</h3>
-                        <h5>Updated: 20.01.2025</h5>
+                        {{-- <h5>Updated: 20.01.2025</h5> --}}
                         <br>
                     </div>
                 </div>
