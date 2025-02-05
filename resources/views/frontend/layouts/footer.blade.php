@@ -32,7 +32,7 @@
                                         alt="logo" /></a>
                             </div>
 
-                            {{-- <div class="footer-contact-info"><div class="btns-box"><a class="btn-one" href="/member-login">Members Login</a></div></div> --}}
+                            <div class="footer-contact-info"><div class="btns-box"><a class="btn-one" data-toggle="modal" data-target="#myModal">Donate Now</a></div></div>
                             {{-- <div class="footer-contact-info">
                                 <div class="icon">
                                     <span class="flaticon-phone-call"></span>
