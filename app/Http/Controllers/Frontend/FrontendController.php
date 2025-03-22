@@ -155,6 +155,7 @@ class FrontendController extends Controller
 
         $input                  = $request->all();
 
+
         // Split the string by underscore
         $parts = explode("_", $input['project_or_program_name']);
 
@@ -166,7 +167,9 @@ class FrontendController extends Controller
         try {
             unset($input['project_or_program_name']);
 
-            Donation::create($input);
+            //dd($input);
+            $data = Donation::create($input);
+
             return back()->with('success', 'Donation information added successfully.');
         } catch (\Exception $e) {
             return back()->with('error', $e->getMessage());
