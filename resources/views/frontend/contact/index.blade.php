@@ -169,7 +169,7 @@
                                             href="mailto:{{ $contact_us_setting->support_email }}">{{ $contact_us_setting->support_email }}</a>
                                     </p>
                                     <p><a
-                                            href="mailto:{{ $contact_us_setting->event_phone }}">{{ $contact_us_setting->event_phone }}</a>
+                                            href="mailto:{{ $contact_us_setting->event_email }}">{{ $contact_us_setting->event_email }}</a>
                                     </p>
                                 </li>
 
